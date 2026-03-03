@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m an Informatics graduate who’s passionate about Data Science and Machine Learning. I enjoy turning raw data into meaningful insights and building end-to-end ML projects from data preprocessing to model deployment.
 
-<br>🌱 Currently focused on growing as a Data/ML Engineer and building projects that are practical, efficient, and impactful.<br>
+<br>🌱 Currently focused on growing as a Data Scientist/Analyst and building projects that are practical, efficient, and impactful.<br>
 
 # 📚 My Portfolio:
 # https://portfolio-nuhp.vercel.app/
