@@ -3,6 +3,8 @@ Hi, I’m an Informatics graduate who’s passionate about Data Science and Mach
 
 <br>🌱 Currently focused on growing as a Data/ML Engineer and building projects that are practical, efficient, and impactful.<br>
 
+# 📚 My Portfolio:
+# https://portfolio-nuhp.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuh-priyonggo) 
